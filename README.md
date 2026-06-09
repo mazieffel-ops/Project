@@ -44,7 +44,7 @@ A modern, fully responsive website showcasing smooth scroll-triggered animations
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/web-scroll-animations.git
+git clone https://github.com/mazieffel-ops/web-scroll-animations.git
 cd web-scroll-animations
 ```
 
@@ -56,7 +56,7 @@ cd web-scroll-animations
 
 2. Clone and navigate to project:
 ```bash
-git clone https://github.com/yourusername/web-scroll-animations.git
+git clone https://github.com/mazieffel-ops/web-scroll-animations.git
 cd web-scroll-animations
 ```
 
